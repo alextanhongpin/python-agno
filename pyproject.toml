@@ -1,0 +1,11 @@
+[project]
+name = "python-agno"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "agno>=1.5.1",
+    "ollama>=0.4.8",
+    "yfinance>=0.2.61",
+]
